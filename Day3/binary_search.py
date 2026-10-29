@@ -4,7 +4,7 @@ def binary_Search(arr , target) :
     while low <= high :
         mid = (low + high) // 2
         if arr[mid] == target :
-            print("Element found at index : "mid)
+            print("Element found at index : " ,mid)
             return
         elif arr[mid] < target :
             low = mid + 1
