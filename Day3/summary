@@ -5,3 +5,4 @@ solved yesterdays last question - return the starting and last index of the elem
 
 Linear search
 Binary Search
+Q: finding sqrt of number without using ** or inbuilt functions with time complexity as O(log n ) : solved with the same logic as binary search
