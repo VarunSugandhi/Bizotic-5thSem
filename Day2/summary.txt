@@ -4,3 +4,7 @@ Function : Is a  block of resuable code that perform specific task.
 types of functions: Built-in Function , user defined function , Lambda Function , Recursive function.
 
 functions written in 2 types: 1. With Parameter    2. without Parameter
+
+List
+2D List
+Tuples
