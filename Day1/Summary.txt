@@ -14,3 +14,6 @@ Questions:
 5. WAP to count the number of digits in a given number n
 6. WAP calculate the sum of all the digits in a number
 7. 
+
+
+Patterns
