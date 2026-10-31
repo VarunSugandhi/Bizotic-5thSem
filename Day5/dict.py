@@ -13,4 +13,4 @@ for word in s.split() :
 print("The String is: ",s)
 print("The frequency of each word in string is: ")
 for k,v in dict.items():
-    print(k, " " , v)
+    print(k, " occurs " , v, " times")
